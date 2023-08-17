@@ -1,16 +1,13 @@
-### Hi there 👋
+## [日本語版](README-ja.md)
 
-<!--
-**kalbi6/kalbi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! My name is Kalbi.
 
-Here are some ideas to get you started:
+Age: 18
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gender: Male
+
+Pronouns: He/His/Him
+
+Languages: Japanese (Native)
+
+Proficient in: C, C++, Go, Java, JS, Kotlin, Lua, Ruby, Rust, TS, VBScript
